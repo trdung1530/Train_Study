@@ -19,5 +19,12 @@
     "age": 22,
     "major": "Information Technology",
     "gpa": 3.1
+  },
+  {
+    "id": 4,
+    "name": "Le Van An",
+    "age": 20,
+    "major": "Information Technology",
+    "gpa": 3.6
   }
 ]
